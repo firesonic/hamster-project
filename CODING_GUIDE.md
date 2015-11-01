@@ -1,5 +1,6 @@
 Coding Guidelines
 =================
+Please read this. Thanks.
 
 Licensing
 ---------
@@ -42,7 +43,7 @@ Files and Directories
 - Source files have the extension <code>&ast;.c</code> for C code, and
   <code>&ast;.cpp</code> for C++ code.
 - The <code>src.ino</code> is the only source file allowed to **not** follow the
-  extension guidelines above since it's also the project file name. It's name is
+  extension guidelines above since it's also the project file. It's name is
   <code>src.ino</code> due to Arduino IDE enforcing this file to have the same
   name as the enclosing folder.
 - Put all source and header files in the root directory. This is to avoid
